@@ -1,6 +1,3 @@
--- Remade by tibe0124
--- Subscribe tibe_D4RK :>
-
 local ShiftLockScreenGui = Instance.new("ScreenGui")
 local ShiftLockButton = Instance.new("ImageButton")
 local ShiftlockCursor = Instance.new("ImageLabel")
